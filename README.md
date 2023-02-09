@@ -9,7 +9,7 @@ A C++ compiler
 
 
 <h2>How to Play</h2>
-Clone the repository to your local machine using git clone https://github.com/hemanth-kumar-boddeda/tic-tac-toe-cpp.git
+Clone the repository to your local machine using git clone https://github.com/hemanth-kumar-boddeda/Tic-Tac-Toe-Console-Game/blob/main/Tic-Tac-Toe/ttt.cpp
 
 Navigate to the repository directory and compile the program using the following command:
 
